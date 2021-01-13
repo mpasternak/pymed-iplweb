@@ -23,6 +23,7 @@ class PubMedArticle(object):
         "copyrights",
         "doi",
         "xml",
+        "pmc_id",
     )
 
     def __init__(
@@ -42,8 +43,12 @@ class PubMedArticle(object):
             for field in self.__slots__:
                 self.__setattr__(field, kwargs.get(field, None))
 
-    def _extractPubMedId(self: object, xml_element: TypeVar("Element")) -> str:
-        path = ".//ArticleId[@IdType='pubmed']"
+    def _extractPubMedId(self: object, xml_element: TypeVar("Element")) -> int:
+        path = ".//PubmedData/ArticleIdList/ArticleId[@IdType='pubmed']"
+        return int(getContent(element=xml_element, path=path))
+
+    def _extractPMCId(self: object, xml_element: TypeVar("Element")) -> str:
+        path = ".//PubmedData/ArticleIdList/ArticleId[@IdType='pmc']"
         return getContent(element=xml_element, path=path)
 
     def _extractTitle(self: object, xml_element: TypeVar("Element")) -> str:
@@ -81,7 +86,7 @@ class PubMedArticle(object):
         return getContent(element=xml_element, path=path)
 
     def _extractDoi(self: object, xml_element: TypeVar("Element")) -> str:
-        path = ".//ArticleId[@IdType='doi']"
+        path = ".//PubmedData/ArticleIdList/ArticleId[@IdType='doi']"
         return getContent(element=xml_element, path=path)
 
     def _extractPublicationDate(
@@ -136,6 +141,7 @@ class PubMedArticle(object):
         self.publication_date = self._extractPublicationDate(xml_element)
         self.authors = self._extractAuthors(xml_element)
         self.xml = xml_element
+        self.pmc_id = self._extractPMCId(xml_element)
 
     def toDict(self: object) -> dict:
         """Helper method to convert the parsed information to a Python dict."""
