@@ -1,0 +1,3 @@
+Original author: Gijs Wobben <gijswobben@gmail.com>
+
+Current maintainer: Michał Pasternak <michal.dtz@gmail.com>

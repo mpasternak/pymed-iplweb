@@ -9,19 +9,21 @@ def read(fname):
 
 
 setup(
-    name="pymed",
+    name="pymed-iplweb",
     version=__version__,
     author="Gijs Wobben",
+    maintainer="Michał Pasternak",
     author_email="gijswobben@gmail.com",
+    maintainer_email="michal.dtz@gmail.com",
     description=("Python library for access to PubMed"),
     license="MIT",
     keywords="PubMed PMC",
-    url="https://github.com/gijswobben/pymed",
+    url="https://github.com/mpasternak/pymed-iplweb",
     packages=find_packages(),
     install_requires=["requests>=2.20.0"],
     tests_require=["pytest"],
-    long_description_content_type="text/markdown",
-    long_description=read("README.md"),
+    long_description_content_type="text/x-rst",
+    long_description=read("README.rst"),
     classifiers=[
         "Topic :: Utilities",
         "Development Status :: 3 - Alpha",
