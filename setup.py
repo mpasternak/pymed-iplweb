@@ -1,6 +1,7 @@
 import os
-from setuptools import setup
-from setuptools import find_packages
+
+from setuptools import find_packages, setup
+
 from pymed.version import __version__
 
 
@@ -19,7 +20,11 @@ setup(
     license="MIT",
     keywords="PubMed PMC",
     url="https://github.com/mpasternak/pymed-iplweb",
-    packages=find_packages(),
+    packages=find_packages(
+        exclude=[
+            "tests",
+        ],
+    ),
     install_requires=["requests>=2.20.0"],
     tests_require=["pytest"],
     long_description_content_type="text/x-rst",
