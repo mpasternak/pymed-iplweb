@@ -1,0 +1,912 @@
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">33374571</PMID>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-0067</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2020</Year>
+                        <Month>Dec</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of molecular sciences</Title>
+                <ISOAbbreviation>Int J Mol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Human Nitric Oxide Synthase-Its Functions, Polymorphisms, and Inhibitors in the Context of Inflammation, Diabetes and Cardiovascular Diseases.</ArticleTitle>
+            <ELocationID EIdType="pii" ValidYN="Y">E56</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3390/ijms22010056</ELocationID>
+            <Abstract>
+                <AbstractText>In various diseases, there is an increased production of the free radicals needed to carry out certain physiological processes but their excessive amounts can cause oxidative stress and cell damage. Enzymes play a major role in the transformations associated with free radicals. One of them is nitric oxide synthase (NOS), which catalyzes the formation of nitric oxide (NO). This enzyme exists in three forms (NOS1, NOS2, NOS3), each encoded by a different gene. The following work presents the most important information on the NOS isoforms and their role in the human body, including NO synthesis in various tissues and cells, intercellular signaling and activities supporting the immune system and regulating blood vessel functions. The role of NOS in pathological conditions such as obesity, diabetes and heart disease is considered. Attention is also paid to the influence of the polymorphisms of these genes, encoding particular isoforms, on the development of these pathologies and the role of NOS inhibitors in the treatment of patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kr&#243;l</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical and Environmental Analyses, Faculty of Pharmacy, Wroclaw Medical University, Borowska 211, 50-556 Wroclaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kepinska</LastName>
+                    <ForeName>Marta</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">0000-0002-0935-5663</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical and Environmental Analyses, Faculty of Pharmacy, Wroclaw Medical University, Borowska 211, 50-556 Wroclaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>016/RID/2018/19</GrantID>
+                    <Agency>Ministerstwo Nauki i Szkolnictwa Wy&#380;szego</Agency>
+                    <Country />
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Int J Mol Sci</MedlineTA>
+            <NlmUniqueID>101092791</NlmUniqueID>
+            <ISSNLinking>1422-0067</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">heart diseases</Keyword>
+            <Keyword MajorTopicYN="N">nitric oxide synthase</Keyword>
+            <Keyword MajorTopicYN="N">obesity</Keyword>
+            <Keyword MajorTopicYN="N">oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">single nucleotide polymorphism</Keyword>
+            <Keyword MajorTopicYN="N">type 2 diabetes</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+                <Hour>1</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2020</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">33374571</ArticleId>
+            <ArticleId IdType="pii">ijms22010056</ArticleId>
+            <ArticleId IdType="doi">10.3390/ijms22010056</ArticleId>
+            <ArticleId IdType="pmc">PMC7793075</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Jan 2;98(1):355-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11134509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Med Chem. 2007;7(1):97-114</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17266598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Rev. 2002 Apr;102(4):935-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11942784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 2008;436:49-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18237627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 1996 Jul 1;331(1):9-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8660677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anesth Analg. 2005 Aug;101(2):488-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16037166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroendocrinology. 2017;104(4):364-381</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28122381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1997 Jun 15;246(3):710-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9219530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetologia. 2011 Nov;54(11):2856-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21847584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Molecules. 2020 May 31;25(11):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32486343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2007 May;28(9):1109-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17459901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Endocr Metab Disord. 2013 Mar;14(1):5-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23306778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Recent Prog Horm Res. 1998;53:43-59; discussion 59-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9769702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1995 Apr 25;34(16):5411-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7727399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2009 Oct 6;120(14):1345-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19770398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Physiol. 1990 Nov;10(6):503-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2083479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2004 Oct;134(10 Suppl):2743S-2747S; discussion 2765S-2767S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15465778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biosci Rep. 2004 Aug-Oct;24(4-5):452-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16134022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1995 Sep 29;270(39):22997-3006</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7559438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vasc Res. 2020;57(3):136-142</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32224624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2013 Mar 20;18(9):1078-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22871241</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2009 Feb;65(2):209-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19235180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2003 Mar 21;92(5):e52-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12623875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Redox Biol. 2015 Dec;6:334-343</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26335399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2020 Jan;177(1):110-127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31454063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Res. 2011 Jul 1;91(1):71-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21460065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EXCLI J. 2020 Sep 08;19:1227-1245</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">33088259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1999 May 5;1411(2-3):385-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10320671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acc Chem Res. 2009 Mar 17;42(3):439-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19154146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Feb;87(4):1620-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2154753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2013 Jun;19(6):753-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23708290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurooncol. 2000 Oct-Nov;50(1-2):139-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11245273</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 1999 Mar;6(3):233-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10074942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Connect. 2015 Mar;4(1):R1-R15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25385852</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(3):e34217</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22470539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta Mol Basis Dis. 2020 Oct 1;1866(10):165838</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32428560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Nov;10(11):1200-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15489859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Mar 1;90(5):1731-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8383325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IUBMB Life. 2003 Oct-Nov;55(10-11):613-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14711007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biochem. 2013 Jan;372(1-2):155-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22983816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cardiovasc Med. 2011 Feb;21(2):58-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22578242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Sci. 2020 Sep 08;21(18):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">32911736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 1999 Aug 28;839(2):305-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10519054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Aug 27;274(35):24694-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10455137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2019 Mar;597(6):1487-1502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30565225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Physiol. 1994 Dec;104(6):1079-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7699364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2014 Jul;20(7):709-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24999941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acc Chem Res. 2013 Feb 19;46(2):390-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23030042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr J. 2016 Jul 25;15(1):71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27456681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vasc Med. 2005 Jul;10 Suppl 1:S19-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16444865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nitric Oxide. 2014 May 30;39:1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24713495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Clin Biochem. 2016 Oct;31(4):372-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27605734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Tissue Res. 2005 Feb;319(2):221-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15558323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2003 Jul;24(14):1287-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12871685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 1995 Jan;114(2):289-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7533613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2009 Mar;11(3):541-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18715148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2004 Apr 24;363(9418):1365-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15110495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2006 Apr 4;113(13):1708-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16585403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2004 Jun 15;117(Pt 14):2865-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15197240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Med. 2006;38(7):522-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17101543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Regul Pept. 2008 Nov 29;151(1-3):139-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18662725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Prev Cardiol. 2019 Jan;26(2):160-170</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30789045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Endocrinol Metab. 2020 Feb;31(2):118-130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31690508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Obes Metab. 2012 Nov;14(11):1010-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22687049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Res Toxicol. 1993 Jan-Feb;6(1):23-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8448345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care. 2007;11(3):136</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17561988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1995 Nov 15;312 ( Pt 1):169-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7492308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2005 Nov 29;112(22):3415-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16301341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes. 2010 Feb;59(2):519-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19934009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2014 Apr;35(14):920-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23048191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Endocrinol. 2010 Jan;24(1):171-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19934346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2000 Aug;41(8):1244-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10946012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2013 Jan 20;18(3):270-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22770551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2015 Feb 12;58(3):1064-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25602734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2012 Jun;1820(6):736-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21803124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Emerg Trauma Shock. 2014 Jul;7(3):190-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25114430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 Dec 5;266(34):22789-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1720773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Cardiol. 2008 Apr;63(2):229-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18468205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Rev. 2002 Apr;102(4):1179-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11942792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Neuropharmacol. 2009 Mar;7(1):65-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19721819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 May 11;282(19):14101-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17369257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 1999 May;27(5):913-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10362413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pol Merkur Lekarski. 2011 Nov;31(185):313-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22299536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Cardiol Rev. 2010 May;6(2):82-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21532773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 2001 Nov;18(11):1607-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11758770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Immunopharmacol. 2001 Aug;1(8):1397-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11515807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2001 Aug 1;357(Pt 3):593-615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11463332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Test Mol Biomarkers. 2012 Jun;16(6):574-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22313046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2012 Apr;33(7):829-37, 837a-837d</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21890489</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Res Toxicol. 1999 Jan;12(1):83-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9894022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Sci. 2013;123(4):295-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24285083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2008 Feb 1;102(2):242-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18007024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IUBMB Life. 2016 Jul;68(7):516-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27192959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroimmunol. 2017 Feb 15;303:51-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28065581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1994 Mar 15;91(6):2046-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7510883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2005 Jan 15;38(2):175-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15607901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cancer Biol. 2005 Aug;15(4):277-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15914026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1993 Sep 10;261(5127):1445-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7690156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 1995;57:707-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7539994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Coron Artery Dis. 2014 Dec;25(8):713-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25365643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Nov 26;285(48):37251-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20855893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Cell Physiol. 2002 Jul;283(1):C296-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12055099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Oct 28;269(43):26669-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7523409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Sep 3;279(36):37918-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15208315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2014 Aug;73:383-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24878261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2014 Aug 1;592(15):3189-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24756636</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetologia. 2003 Mar;46(3):426-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12687343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Basic Clin Pharmacol Toxicol. 2012 Jan;110(1):87-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21883939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2006 Jan;63(2):144-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16416260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1991 Dec 31;181(3):1392-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1662497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Angiol. 2017 Sep;26(3):165-169</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28804234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1998 Oct 1;102(7):1403-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9769333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Physiol Funct Imaging. 2016 Nov;36(6):482-489</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26046684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Oncol. 2018 May 15;8:160</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29868481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2015 Apr 10;459(3):393-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25732085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Physiol Scand. 2004 Mar;180(3):307-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14962013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Sci OA. 2015;1(1):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26634146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2002 Dec;1(12):939-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12461516</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Immunol. 1998 Aug;113(2):147-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9717962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pflugers Arch. 2003 Dec;447(3):305-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14564523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1992 Jun 5;267(16):11374-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1375940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Pharmacol. 2020 Jun;176:113793</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31923387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biochem Cell Biol. 2002 Dec;34(12):1508-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12379270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nitric Oxide. 2009 Jun;20(4):223-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19298861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nitric Oxide. 1999;3(2):142-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10369184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Iran J Public Health. 2018 Nov;47(11):1734-1741</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30581791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rheumatology (Oxford). 2000 Sep;39(9):1004-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10986306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Feb 21;272(8):4959-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9030556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2017 Mar 1;617:129-136</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27555493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 1996;387:147-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8794207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
