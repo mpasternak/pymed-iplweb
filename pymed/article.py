@@ -1,16 +1,13 @@
-import json
 import datetime
-
+import json
+from typing import Optional, TypeVar
 from xml.etree.ElementTree import Element
-from typing import TypeVar
-from typing import Optional
 
 from .helpers import getContent
 
 
 class PubMedArticle(object):
-    """ Data class that contains a PubMed article.
-    """
+    """Data class that contains a PubMed article."""
 
     __slots__ = (
         "pubmed_id",
@@ -26,6 +23,7 @@ class PubMedArticle(object):
         "copyrights",
         "doi",
         "xml",
+        "pmc_id",
     )
 
     def __init__(
@@ -34,8 +32,7 @@ class PubMedArticle(object):
         *args: list,
         **kwargs: dict,
     ) -> None:
-        """ Initialization of the object from XML or from parameters.
-        """
+        """Initialization of the object from XML or from parameters."""
 
         # If an XML element is provided, use it for initialization
         if xml_element is not None:
@@ -46,8 +43,12 @@ class PubMedArticle(object):
             for field in self.__slots__:
                 self.__setattr__(field, kwargs.get(field, None))
 
-    def _extractPubMedId(self: object, xml_element: TypeVar("Element")) -> str:
-        path = ".//ArticleId[@IdType='pubmed']"
+    def _extractPubMedId(self: object, xml_element: TypeVar("Element")) -> int:
+        path = ".//PubmedData/ArticleIdList/ArticleId[@IdType='pubmed']"
+        return int(getContent(element=xml_element, path=path))
+
+    def _extractPMCId(self: object, xml_element: TypeVar("Element")) -> str:
+        path = ".//PubmedData/ArticleIdList/ArticleId[@IdType='pmc']"
         return getContent(element=xml_element, path=path)
 
     def _extractTitle(self: object, xml_element: TypeVar("Element")) -> str:
@@ -85,7 +86,7 @@ class PubMedArticle(object):
         return getContent(element=xml_element, path=path)
 
     def _extractDoi(self: object, xml_element: TypeVar("Element")) -> str:
-        path = ".//ArticleId[@IdType='doi']"
+        path = ".//PubmedData/ArticleIdList/ArticleId[@IdType='doi']"
         return getContent(element=xml_element, path=path)
 
     def _extractPublicationDate(
@@ -116,14 +117,15 @@ class PubMedArticle(object):
                 "lastname": getContent(author, ".//LastName", None),
                 "firstname": getContent(author, ".//ForeName", None),
                 "initials": getContent(author, ".//Initials", None),
-                "affiliation": getContent(author, ".//AffiliationInfo/Affiliation", None),
+                "affiliation": getContent(
+                    author, ".//AffiliationInfo/Affiliation", None
+                ),
             }
             for author in xml_element.findall(".//Author")
         ]
 
     def _initializeFromXML(self: object, xml_element: TypeVar("Element")) -> None:
-        """ Helper method that parses an XML element into an article object.
-        """
+        """Helper method that parses an XML element into an article object."""
 
         # Parse the different fields of the article
         self.pubmed_id = self._extractPubMedId(xml_element)
@@ -139,20 +141,23 @@ class PubMedArticle(object):
         self.publication_date = self._extractPublicationDate(xml_element)
         self.authors = self._extractAuthors(xml_element)
         self.xml = xml_element
+        self.pmc_id = self._extractPMCId(xml_element)
 
     def toDict(self: object) -> dict:
-        """ Helper method to convert the parsed information to a Python dict.
-        """
+        """Helper method to convert the parsed information to a Python dict."""
 
         return {key: self.__getattribute__(key) for key in self.__slots__}
 
     def toJSON(self: object) -> str:
-        """ Helper method for debugging, dumps the object as JSON string.
-        """
+        """Helper method for debugging, dumps the object as JSON string."""
 
         return json.dumps(
             {
-                key: (value if not isinstance(value, (datetime.date, Element)) else str(value))
+                key: (
+                    value
+                    if not isinstance(value, (datetime.date, Element))
+                    else str(value)
+                )
                 for key, value in self.toDict().items()
             },
             sort_keys=True,
