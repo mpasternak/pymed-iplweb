@@ -108,3 +108,7 @@ test-reports/
 .coveragerc
 test_env/
 .vscode/settings.json
+
+# uv
+uv.lock
+.venv/
