@@ -68,3 +68,8 @@ The author of this library is not affiliated, associated, authorized,
 endorsed by, or in any way officially connected with PubMed, or any of
 its subsidiaries or its affiliates. The official PubMed website can be
 found at https://www.ncbi.nlm.nih.gov/pubmed/.
+
+License
+-------
+
+This project is licensed under the MIT License - see the `LICENCE <LICENCE>`_ file for details.
