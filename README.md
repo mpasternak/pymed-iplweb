@@ -7,16 +7,9 @@
 
 PyMed is a Python library that provides access to PubMed through the PubMed API. This is a fork, maintained by https://IPLweb.pl
 
-## Supported versions
+## Supported Python versions
 
-| Python | Django 4.2 LTS | Django 5.0 | Django 5.1 | Django 5.2 LTS | Django 6.0 |
-|--------|:--------------:|:----------:|:----------:|:--------------:|:----------:|
-| 3.10   | ✅             | ✅         | ✅         | ✅             | —          |
-| 3.11   | ✅             | ✅         | ✅         | ✅             | —          |
-| 3.12   | ✅             | ✅         | ✅         | ✅             | ✅         |
-| 3.13   | —              | —          | ✅         | ✅             | ✅         |
-
-Django is an optional dependency.
+Python 3.10, 3.11, 3.12, 3.13.
 
 ## Why this library?
 
