@@ -5,14 +5,14 @@ PyMed-iplweb - PubMed Access through Python
 .. image:: https://img.shields.io/pypi/v/pymed-iplweb.svg
         :target: https://pypi.python.org/pypi/pymed-iplweb
 
-.. image:: https://github.com/mpasternak/pymed/actions/workflows/tests.yml/badge.svg?branch=develop
-        :target: https://github.com/mpasternak/pymed/actions/workflows/tests.yml
+.. image:: https://github.com/mpasternak/pymed-iplweb/actions/workflows/tests.yml/badge.svg?branch=develop
+        :target: https://github.com/mpasternak/pymed-iplweb/actions/workflows/tests.yml
 
 .. image:: https://img.shields.io/pypi/pyversions/pymed-iplweb.svg
         :target: https://pypi.python.org/pypi/pymed-iplweb
 
 .. image:: https://img.shields.io/badge/license-MIT-green.svg
-        :target: https://github.com/mpasternak/pymed/blob/master/LICENCE
+        :target: https://github.com/mpasternak/pymed-iplweb/blob/master/LICENCE
 
 PyMed is a Python library that provides access to PubMed through the
 PubMed API. This is a fork, maintained by https://IPLweb.pl
