@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pymed-iplweb"
-version = "0.8.10"
+version = "0.8.11"
 description = "Python library for access to PubMed"
 readme = "README.rst"
 requires-python = ">=3.10"
